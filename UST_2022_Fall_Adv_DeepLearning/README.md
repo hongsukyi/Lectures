@@ -26,11 +26,11 @@ Lecture 7|10/18|Word Embedding | Prof. Seongchan Kim |
 Lecture 8|10/25|Mid-term Exam | Prof. Seongchan Kim | 
 Lecture 9|10/31|Recurrent Neural Networks and Long-Short Term Memory  | Prof. Hongsuk Yi| 
 Lecture 10|11/07|Attention mechanism and Transformer model | Prof. Hongsuk Yi | 
-Lecture 11|11/14|Generative Adversarial Networks (1) | GAN SAJID HUSSAIN, Seungeun Han | 
-Lecture 12|11/21|Generative Adversarial Networks (2)  |wonjun Lee, SeonHoon Kim | 
+Lecture 11|11/14|Generative Adversarial Networks (1) | GAN SAJID HUSSAIN, Seungeun Han (ViT) | 
+Lecture 12|11/21|Generative Adversarial Networks (2)  |Wonjun Lee (SINGAN), SeonHoon Kim (ResNet) | 
 Lecture 13|11/28|Introduction to Deep Reinforcement Learning| Gunho Lee(yolo), Yesim Selcuk | 
-Lecture 14|12/05|Deep Q-Networks | Seungyeon Kim, Nilesh Srivastava (BERT)| 
-Lecture 15|12/12|Policy Gradients  | Indra Kumari(CNN), Ni | 
+Lecture 14|12/05|Deep Q-Networks | Seungyeon Kim (Transformer), Nilesh Srivastava (BERT)| 
+Lecture 15|12/12|Policy Gradients  | Indra Kumari(CNN), Ni (LSTM)| 
 Lecture 16|12/19|Final Exam |-| 
 
 
